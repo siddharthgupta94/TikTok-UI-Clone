@@ -3,7 +3,7 @@ import Video from "./Video";
 import "./App.css";
 
 const API_URL =
-  "https://raw.githubusercontent.com/codedamn-classrooms/tiktok-react-material/main/data.json";
+  "https://raw.githubusercontent.com/siddharthgupta94/TikTok-UI-Clone/main/data.json";
 
 export default function App() {
   const [videos, setVideos] = useState([]);
